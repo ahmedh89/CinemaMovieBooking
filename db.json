@@ -1,0 +1,81 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "Title": "The Lion King",
+      "Year": "2019",
+      "price": 100,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 2,
+      "Title": "Doctor Strange",
+      "Year": "2016",
+      "price": 120,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 3,
+      "Title": "John Wick",
+      "Year": "2014",
+      "price": 60,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 4,
+      "Title": "Dune: Part Two",
+      "Year": "2024",
+      "price": 160,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmY2M2EzNDMtNjkwNS00ZTIyLTk1NzAtOGI3ZDAxNjg1Mzk2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    },
+    {
+      "id": 5,
+      "Title": "Mission: Impossible – Dead Reckoning Part One",
+      "Year": "2023",
+      "price": 140,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc4NTMzYjQtYmU0YS00M2NhLTlkNjMtNGEwODVmZGIxZDUxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    },
+    {
+      "id": 6,
+      "Title": "Oppenheimer",
+      "Year": "2023",
+      "price": 150,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5NjkzMzMtM2U3NS00NzBkLTk3MTQtMzBkMmMwZTg3NDZiXkEyXkFqcGdeQXVyMTM1NjQwMjkx._V1_SX300.jpg"
+    },
+    {
+      "id": 7,
+      "Title": "The Batman",
+      "Year": "2022",
+      "price": 130,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRhMmE1ZmEtNmM4NC00YmE1LTg0YzEtMWQxY2I1MGM2ZjhjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    },
+    {
+      "id": 8,
+      "Title": "Avatar: The Way of Water",
+      "Year": "2022",
+      "price": 170,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk1NzQ5YjktZGVjMi00NjU0LTk5YmItM2FiNzA5MzMwMTg1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    },
+    {
+      "id": 9,
+      "Title": "John Wick: Chapter 4",
+      "Year": "2023",
+      "price": 145,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjBlYzc2YmYtZGM1OS00NWI2LTllYjgtYjZjZmYyZDZkNzMxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    },
+    {
+      "id": 10,
+      "Title": "Spider-Man: No Way Home",
+      "Year": "2021",
+      "price": 125,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmEzZTc4OTQtODQwMC00ZDUyLTlkYmYtOTM2ZWE4OTYzZTgxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    },
+    {
+      "id": 11,
+      "Title": "The Marvels",
+      "Year": "2023",
+      "price": 115,
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM1NDdkNTItMWM5NS00ODkxLWE5ZmUtODZjZmMwMmNmMDJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    }
+  ]
+}
